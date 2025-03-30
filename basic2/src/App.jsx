@@ -1,12 +1,12 @@
 import { useState } from 'react'
-import './App.css'
-import Navo from './components/Navo.jsx'
+
+
 
 function App() {
 
   return (
     <div>
-      <Navo/>
+      <h1>Hello Vite + React!</h1>
     </div>
   )
 }
