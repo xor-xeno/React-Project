@@ -2,6 +2,7 @@ import { useState } from 'react'
 import Navbar from './components/Navbar'
 import Herosc from './components/Herosc'
 import CompanyLogo from './components/CompanyLogo'
+import PurposeSection from './components/PurposeSection'
 
 function App() {
 
@@ -12,6 +13,7 @@ function App() {
         <Navbar />
         <Herosc />
         <CompanyLogo />
+        <PurposeSection />
       </div>
     </main>
   )
