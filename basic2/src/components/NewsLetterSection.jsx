@@ -37,5 +37,5 @@ const NewsLetterSection = () => {
     </section>
   );
 };
-hover:bg-blue-700
+
 export default NewsLetterSection;
