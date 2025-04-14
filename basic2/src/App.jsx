@@ -7,6 +7,7 @@ import FeaturesSection from './components/FeaturesSection'
 import Schedule from './components/Schedule'
 import MonitorSection from './components/MonitorSection'
 import Priceing from './components/Priceing'
+import ServicesSection from './components/ServicesSection'
 
 function App() {
 
@@ -22,6 +23,7 @@ function App() {
         <Schedule />
         <MonitorSection />
         <Priceing />
+        <ServicesSection />
       </div>
     </main>
   )
