@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import Navbar from './components/Navbar'
 import Herosc from './components/Herosc'
 import CompanyLogo from './components/CompanyLogo'
@@ -8,6 +7,7 @@ import Schedule from './components/Schedule'
 import MonitorSection from './components/MonitorSection'
 import Priceing from './components/Priceing'
 import ServicesSection from './components/ServicesSection'
+import TestimonialSection from './components/TestimonialSection'
 
 function App() {
 
@@ -24,6 +24,7 @@ function App() {
         <MonitorSection />
         <Priceing />
         <ServicesSection />
+        <TestimonialSection />
       </div>
     </main>
   )

@@ -17,3 +17,11 @@ html{
     transform: translateX(-50%);
   }
 }
+
+.testimonials-swiper{
+  padding: 20px 0;
+}
+
+.testimonials-swiper .swiper-slide{
+  height: auto;
+}
