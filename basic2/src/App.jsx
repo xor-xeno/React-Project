@@ -6,6 +6,7 @@ import PurposeSection from './components/PurposeSection'
 import FeaturesSection from './components/FeaturesSection'
 import Schedule from './components/Schedule'
 import MonitorSection from './components/MonitorSection'
+import Priceing from './components/Priceing'
 
 function App() {
 
@@ -20,6 +21,7 @@ function App() {
         <FeaturesSection />
         <Schedule />
         <MonitorSection />
+        <Priceing />
       </div>
     </main>
   )
